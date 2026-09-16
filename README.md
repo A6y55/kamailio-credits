@@ -30,6 +30,7 @@ Please make the pull request to update the list of credits alphabetically.
 | Olivier Laflamme    | Boschko          | Pwno         | 2026        | Security        | Vulnerability research and fuzzing |
 | Sandro Gauci     |                  | [Enable Security](https://www.enablesecurity.com/)     | 2026  | Security      | Security analysis |
 | Shuaigangran Yue | A6y55            | [Southeast University](https://www.seu.edu.cn/), [Xingtu Lab](https://tianwen.qianxin.com) | 2026 | Security | Vulnerability research and fuzzing |
+| Snir Aviv        | Sn1r             | [Cato Networks](https://www.catonetworks.com/)         | 2026 | Security       | Vulnerability research |
 | Tristan Madani   | TristanInSec     | [Talence Security](https://talencesecurity.com)        | 2026  | Security      | Security analysis |
 | Wei              |                  | [Xidian University](https://www.xidian.edu.cn/)        | 2026  | Security      | Security analysis |
 | Yuanhao Li       |    hackeryounow  | [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)  | 2026  | Security   | Security analysis |
