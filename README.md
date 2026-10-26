@@ -21,6 +21,7 @@ Please make the pull request to update the list of credits alphabetically.
 
 | Name             | Alias - Username | Organization                                           | Years | Scope Of Work | Short Description |
 |------------------|------------------|--------------------------------------------------------|-------|---------------|-------------------|
+| Adam Bedard      | CaffinatedSquirrel-OG |                                                   | 2026  | Security      | Security analysis |
 | Alfred Farrugia  |                  | [Enable Security](https://www.enablesecurity.com/)     | 2026  | Security      | Security analysis |
 | Haruto Kimura    | HarutoKimura     | Stella                                                 | 2026  | Security      | Code analysis     |
 | Hu Xinyao         | ZwCrazyThursday  |                                                        | 2026  | Security      | Security analysis |
